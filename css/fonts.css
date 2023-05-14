@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family: 'Ysabeau';
+    src: url('../fonts/Ysabeau-Regular.eot');
+    src: url('../fonts/Ysabeau-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ysabeau-Regular.woff2') format('woff2'),
+        url('../fonts/Ysabeau-Regular.woff') format('woff'),
+        url('../fonts/Ysabeau-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ysabeau Bold';
+    src: url('../fonts/Ysabeau-Bold.eot');
+    src: url('../fonts/Ysabeau-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ysabeau-Bold.woff2') format('woff2'),
+        url('../fonts/Ysabeau-Bold.woff') format('woff'),
+        url('../fonts/Ysabeau-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+

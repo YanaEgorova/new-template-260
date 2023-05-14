@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+  --active: #6bff21;
+
+  --first-brand-color: #edeef5;
+  --second-brand-color: #2322e5;
+
+  --main-font: 'Ysabeau';
+  --title-font: 'Ysabeau Bold';
+
+  font-size: 62.5%;
+}
